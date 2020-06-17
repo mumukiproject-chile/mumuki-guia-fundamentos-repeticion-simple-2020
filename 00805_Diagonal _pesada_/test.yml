@@ -1,0 +1,32 @@
+check_head_position: true
+
+subject: DiagonalPesada4Azul
+
+examples:
+ - title: 'Con el cabezal en el origen'
+   initial_board: |
+     GBB/1.0
+     size 5 5
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 5 5
+     cell 0 0 Azul 21 
+     cell 1 1 Azul 21 
+     cell 2 2 Azul 21 
+     cell 3 3 Azul 21 
+     head 4 4
+     
+ - title: 'Con el cabezal desplazado'
+   initial_board: |
+     GBB/1.0
+     size 6 5
+     head 1 0
+   final_board: |
+     GBB/1.0
+     size 6 5
+     cell 1 0 Azul 21 
+     cell 2 1 Azul 21 
+     cell 3 2 Azul 21 
+     cell 4 3 Azul 21 
+     head 5 4     

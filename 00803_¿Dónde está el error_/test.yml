@@ -1,0 +1,17 @@
+check_head_position: true
+
+subject: LineaRoja4
+
+examples:
+ - initial_board: |
+     GBB/1.0
+     size 2 5
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 5
+     cell 0 0 Rojo 1
+     cell 0 1 Rojo 1
+     cell 0 2 Rojo 1
+     cell 0 3 Rojo 1
+     head 0 4
