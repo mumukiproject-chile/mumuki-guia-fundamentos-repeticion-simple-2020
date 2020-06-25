@@ -1,4 +1,4 @@
-Es fácil che, acá está el código del ejercicio anterior:
+Es fácil, compadre, acá está el código del ejercicio anterior:
 
 ```gobstones
 procedure MoverOeste10() {

@@ -1,1 +1,1 @@
-Entremos en calor: escribí un procedimiento `MoverOeste10` que mueva el cabezal 10 veces hacia el Oeste.
+Entremos en calor: escribe un procedimiento `MoverOeste10` que mueva el cabezal 10 veces hacia el oeste.

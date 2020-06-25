@@ -1,3 +1,3 @@
-Llegó tu turno de nuevo: escribí un procedimiento `MoverOeste5` que se mueva 5 veces al Oeste.
+Llegó tu turno de nuevo: escribe un procedimiento `MoverOeste5` que se mueva 5 veces al oeste.
 
-Obvio, esta vez tenés que usar `repeat`.
+Obviamente, esta vez tienes que usar `repeat`.

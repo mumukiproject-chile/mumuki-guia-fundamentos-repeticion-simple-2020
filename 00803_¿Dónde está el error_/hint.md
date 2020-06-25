@@ -1,1 +1,1 @@
-Si te perdiste y querés volver a la solución inicial, podés presionar **"Reiniciar"** dentro del editor.
+Si te perdiste y quieres volver a la solución inicial, puedes presionar **"Reiniciar"** dentro del editor.

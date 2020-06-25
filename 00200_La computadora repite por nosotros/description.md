@@ -12,4 +12,4 @@ procedure MoverOeste10() {
 }
 ```
 
-> Pero no tenés por qué creernos: ¡escribí este código en el editor y fijate si funciona!
+> Pero no tienes por qué creernos: ¡escribe este código en el editor y fíjate si funciona!

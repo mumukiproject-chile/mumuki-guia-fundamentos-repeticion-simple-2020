@@ -1,5 +1,5 @@
 ---
 expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: MoverOeste10
-  inspection: HasRepeat
+  - !ruby 
+    binding: MoverOeste10
+    inspection: HasRepeat

@@ -1,4 +1,4 @@
-Mientras corregíamos ejercicios de un compañero tuyo, nos encontramos con una solución para `LineaRoja4` que no está del todo bien, mirá:
+Mientras corregíamos ejercicios de un compañero tuyo, nos encontramos con una solución para `LineaRoja4` que no está del todo bien, mira:
 
 <table class= "table" style="width:100%">
   <thead>
@@ -43,4 +43,4 @@ Mientras corregíamos ejercicios de un compañero tuyo, nos encontramos con una 
 </table>
 
 <br>
-¿Nos ayudás a corregirla? Te dejamos el código en el editor.
+¿Nos ayudas a corregirla? Te dejamos el código en el editor.
