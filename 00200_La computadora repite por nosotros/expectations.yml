@@ -1,5 +1,0 @@
----
-expectations:
-  - !ruby 
-    binding: MoverOeste10
-    inspection: HasRepeat

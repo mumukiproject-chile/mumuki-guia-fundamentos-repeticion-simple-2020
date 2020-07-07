@@ -1,5 +1,5 @@
 ---
 expectations:
-  - !ruby 
-    binding: Poner3AlNoreste
-    inspection: HasRepeat
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Poner3AlNoreste
+  inspection: HasRepeat
