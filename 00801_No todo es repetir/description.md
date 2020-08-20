@@ -1,18 +1,18 @@
 Los ejemplos que hiciste en los ejercicios anteriores se solucionaban simplemente repitiendo cosas. Pero no todo es repetir; también podemos poner comandos tanto **antes** como **después** del `repeat`, como veníamos haciendo hasta ahora.
 
-Por ejemplo, este es un programa que se mueve al sur y **luego** pone 4 bolitas rojas:
+Por ejemplo, este es un programa que se mueve al sur, **luego** pone 4 bolitas rojas y por último vuelve a moverse al `Norte`:
 
 ```gobstones
 program {
   Mover(Sur)
-
   repeat(4) {
     Poner(Rojo)
   }
+  Mover(Norte)
 }
 ```
 
-Fíjate que el `Mover(Sur)` lo pusimos **antes** del `repeat`, y por lo tanto se ejecuta una sola vez.
+Fíjate que `Mover(Sur)` lo pusimos **antes** del `repeat` y `Mover(Norte)` lo pusimos **después**. Por lo tanto cada movimiento se ejecuta solo una vez. Teniendo en cuenta esto:
 
 > Sabiendo esto, escribe `Poner3AlNoreste()`, que ponga 3 bolitas negras en la primera celda al noreste del cabezal.
 
