@@ -26,4 +26,4 @@ procedure DibujarLineaNegra6() {
 
 ¿Te das cuenta de qué es lo que se repite y cuántas veces? Bueno, eso es lo que tienes que poner en el `repeat`.
 
-> Escribe una versión superadora de `DibujarLineaNegra6`, esta vez usando `repeat`.
+> Define una versión superadora de `DibujarLineaNegra6`, esta vez usando `repeat`.
