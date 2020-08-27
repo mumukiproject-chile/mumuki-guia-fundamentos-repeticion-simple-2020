@@ -26,5 +26,5 @@ Si ahora queremos hacer que deje el cabezal en la última celda de la línea, te
      head 3 0
 </gs-board>
 
-> Teniendo en cuenta esto último, escribe una nueva versión de `LineaNegra4Este` que deje el cabezal en la última celda de la línea.
+> Teniendo en cuenta esto último, define una nueva versión de `LineaNegra4Este` que deje el cabezal en la última celda de la línea.
 
