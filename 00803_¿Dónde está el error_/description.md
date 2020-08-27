@@ -43,4 +43,4 @@ Mientras corregíamos ejercicios de un compañero tuyo, nos encontramos con una 
 </table>
 
 <br>
-¿Nos ayudas a corregirla? Te dejamos el código en el editor.
+> ¿Nos ayudas a corregirla? Te dejamos el código en el editor.
