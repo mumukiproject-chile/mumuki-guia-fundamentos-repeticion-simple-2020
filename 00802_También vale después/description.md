@@ -1,4 +1,4 @@
-Escribe el procedimiento `PonerAzulLejos`, que coloque una bolita azul 4 celdas hacia el este:
+> Define el procedimiento `PonerAzulLejos`, que coloque una bolita azul 4 celdas hacia el este:
 
 <gs-board> 
   GBB/1.0 
